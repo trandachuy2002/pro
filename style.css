@@ -1095,15 +1095,13 @@ footer span {
   } */
   .tonggle {
     display: block;
-    /* z-index: 5; */
-    /* margin: 2.35rem 0; */
     padding: 4rem;
   }
   .menu-mb .main-menu {
     position: fixed;
     width: 100%;
-    height: calc(100vh - 16rem);
-    top: 9;
+    height: calc(100vh - 10rem);
+    top: 14.5%;
     right: -100%;
     text-align: center;
     background-color: var(--color-box-btn2);
