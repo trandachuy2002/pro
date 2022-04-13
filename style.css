@@ -1096,12 +1096,13 @@ footer span {
   .tonggle {
     display: block;
     /* z-index: 5; */
-    margin: 2.35rem 0;
+    /* margin: 2.35rem 0; */
+    padding: 4rem;
   }
   .menu-mb .main-menu {
     position: fixed;
     width: 100%;
-    height: auto;
+    height: calc(100vh - 16rem);
     top: 9;
     right: -100%;
     text-align: center;
@@ -1119,7 +1120,7 @@ footer span {
   }
   .menu-mb .main-menu li a {
     color: var(--white);
-    font-size: 1.4rem;
+    font-size: 1.8rem;
   }
   .menu-mb .main-menu li span {
     display: none;
