@@ -1101,7 +1101,7 @@ footer span {
     position: fixed;
     width: 100%;
     height: calc(100vh - 10rem);
-    top: 14.5%;
+    top: 19.5%;
     right: -100%;
     text-align: center;
     background-color: var(--color-box-btn2);
