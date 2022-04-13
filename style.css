@@ -1199,6 +1199,9 @@ footer span {
   .main-text {
     text-align: center;
   }
+  .menu-mb .main-menu {
+    top: 25%;
+  }
   .main-button {
     justify-content: center;
     align-items: center;
