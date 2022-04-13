@@ -1101,7 +1101,7 @@ footer span {
     position: fixed;
     width: 100%;
     height: calc(100vh - 10rem);
-    top: 20%;
+    top: 18rem;
     right: -100%;
     text-align: center;
     background-color: var(--color-box-btn2);
@@ -1200,7 +1200,7 @@ footer span {
     text-align: center;
   }
   .menu-mb .main-menu {
-    top: 25%;
+    top: 18rem;
   }
   .main-button {
     justify-content: center;
